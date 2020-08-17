@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bhuwan!
+### Hi 👋, I'm Bhuwan!
 
 <a href="https://twitter.com/Bhuwan38458789">
   <img align="left" alt="Bhuwan Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,7 +23,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Bhuwan38458789)](https://twitter.com/Bhuwan38458789)
 -->
 
-I'm a Second year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills.
+I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills.
 <br/>
 
 ### More about me...
@@ -34,7 +34,7 @@ I'm a Second year student pursuing Bachelors's in Computer Science 🎓 from Nat
 - 📫 How to reach me: bhuwan7779@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/) | [Twitter](https://twitter.com/Bhuwan38458789) | [Instagram](https://www.instagram.com/bhuwan_7779/)
 - 💻 I have worked on Java, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:bhuwan7779@gmail.com?Subject=Hello%20Bhuwan) 👨‍💻.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. [Hire me](mailto:bhuwan7779@gmail.com?Subject=Hello%20Bhuwan) 👨‍💻.
 
 <br/>
 
