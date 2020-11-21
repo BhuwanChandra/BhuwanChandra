@@ -55,8 +55,11 @@ I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Nati
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
-
-![Bhuwan's github stats](https://github-readme-stats.vercel.app/api?username=BhuwanChandra&show_icons=true&hide_border=true)
-
+<a href="https://github.com/BhuwanChandra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanChandra&theme=light&hide_border=true" />
+</a>
+<a href="https://github.com/BhuwanChandra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BhuwanChandra&show_icons=true&hide_border=true" />
+</a>
 
 
