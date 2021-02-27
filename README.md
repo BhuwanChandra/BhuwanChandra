@@ -23,7 +23,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Bhuwan38458789)](https://twitter.com/Bhuwan38458789)
 -->
 
-I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills.
+I'm a Third year student pursuing Bachelors in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills.
 <br/>
 
 ### More about me...
