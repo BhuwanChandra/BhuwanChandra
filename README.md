@@ -34,7 +34,7 @@ I'm a Third year student pursuing Bachelors in Computer Science 🎓 from Nation
 - 📫 How to reach me: bhuwan7779@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/) | [Twitter](https://twitter.com/Bhuwan38458789) | [Instagram](https://www.instagram.com/bhuwan_7779/)
 - 💻 I have worked on Java, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. [Hire me](mailto:bhuwan7779@gmail.com?Subject=Hello%20Bhuwan) 👨‍💻.
+- [Hire me](mailto:bhuwan7779@gmail.com?Subject=Hello%20Bhuwan) 👨‍💻.
 
 <br/>
 
