@@ -26,14 +26,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Bhuwan38458789)](https://twitter.com/Bhuwan38458789)
 -->
 
-I'm a Final year B.Tech Computer Science 🎓 student from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills.
+I am a Software Engineer 1 at Cvent, I have done my graduation in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 <br/>
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning AngularJs 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN / MEAN Stack.
+- 🔭 I have experience working on Node.js, Express.js, React, Graphql, MongoDB, Java etc 💻.
 - 📫 How to reach me: bhuwan7779@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/) | [Twitter](https://twitter.com/Bhuwan38458789) | [Instagram](https://www.instagram.com/bhuwan_7779/)
 - 💻 I have worked on Java, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
