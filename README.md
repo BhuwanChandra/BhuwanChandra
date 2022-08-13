@@ -1,13 +1,7 @@
-### Hi 👋, I'm Bhuwan!
+### Hi!👋
 
-<a href="https://twitter.com/Bhuwan38458789">
-  <img align="left" alt="Bhuwan Chandra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/">
   <img align="left" alt="Bhuwan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/bhuwan_7779/">
-  <img align="left" alt="Bhuwan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/bhuwanchandra001">
   <img align="left" alt="Bhuwan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
@@ -18,6 +12,9 @@
 <a href="https://stackoverflow.com/users/10559528/bhuwan-chandra">
   <img align="left" alt="Bhuwan's StackoverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
+<a href="https://leetcode.com/bhuwan7779/">
+  <img align="left" alt="Bhuwan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.6.0/icons/leetcode.svg" />
+</a>
 <br />
 <br />
 <!--
@@ -26,15 +23,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Bhuwan38458789)](https://twitter.com/Bhuwan38458789)
 -->
 
-I am a Software Engineer 1 at Cvent, I have done my graduation in Computer Science 🎓 from National Institute of Technology Patna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+I am Bhuwan, a Software Engineer👨‍💻. I love to create 💻 mobile and web applications.
 <br/>
 
 ### More about me...
 
-- 🔭 I have experience working on Node.js, Express.js, React, Graphql, MongoDB, Java etc 💻.
-- 📫 How to reach me: bhuwan7779@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/) | [Twitter](https://twitter.com/Bhuwan38458789) | [Instagram](https://www.instagram.com/bhuwan_7779/)
-- 💻 I have worked on Java, Python, HTML/CSS, Javascript, ReactJs, NodeJs, ExpressJs, Php, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
+- 🔭 I am currently working as a Software Engineer💻.
+- 💻 I have experience in Java, Javascript, ReactJs, NodeJs, ExpressJs, MySQL, MongoDB, Git, Docker, etc.
+- 💬 Ask me about anything! I am happy to help!.
+- 📫 How to reach me: bhuwan7779@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhuwan-chandra-baurai-760288178/) | [Instagram (https://www.instagram.com/bhuwan_7779/)
 - [Hire me](mailto:bhuwan7779@gmail.com?Subject=Hello%20Bhuwan) 👨‍💻.
 
 <br/>
@@ -51,7 +48,6 @@ I am a Software Engineer 1 at Cvent, I have done my graduation in Computer Scien
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
